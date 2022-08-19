@@ -1,0 +1,22 @@
+body {
+    font-family: 'poppins', Verdana, sans-serif;
+    font-size: large;
+    background-color: bisque;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nav {
+    margin: 1%;
+    padding: 0.1em;
+}
+li {
+    display: inline;
+    margin: 5%;
+}
+
+#footer_text , #facebook , #ins {
+    margin: 1px;
+}
+
